@@ -1,0 +1,14 @@
+# Virtual Environment
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment Secrets 
+.env
+
+# Local ChromaDB Database
+chroma_db/
+
+# Streamlit config
+.streamlit/
